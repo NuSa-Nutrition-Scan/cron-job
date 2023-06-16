@@ -32,10 +32,7 @@ The cron job performs the following tasks:
    ```bash
    gcloud app deploy
 
-7. Deploy the cron job
-   ```bash
-   gcloud app deploy cron.yaml
-   ```
+7. Wait until 00:00, and see the result
 
 ## LICENSE
 

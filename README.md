@@ -2,6 +2,10 @@
 
 This project implements a cron job using Google App Engine and Firestore. The cron job is scheduled to run every night at 00:00 GMT+7 (Asia/Jakarta) and resets some fields in user data stored in Firestore.
 
+
+## Team:
+Cloud Computing
+
 ## Functionality
 
 The cron job performs the following tasks:
